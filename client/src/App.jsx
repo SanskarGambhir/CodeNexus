@@ -37,6 +37,7 @@ import Animation from './pages/Checking/Animation'
 import MockInterview from './pages/MockInterview'
 import InterviewHome from './pages/InterviewHome'
 
+
 // import Animation from './pages/Checking/Animation'
 import Course from './pages/Course'
 import Mentor from './pages/Mentor'
