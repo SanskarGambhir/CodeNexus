@@ -47,7 +47,3 @@ https://code-nexus-six.vercel.app/
   Engage in discussions, share knowledge, and c
 
 
-## 📌 Author
-
-- [@TanishkDhope](https://www.github.com/TanishkDhope)
-
